@@ -1,6 +1,6 @@
 ---
 layout: layout.mustache
-title: Hello World (preview)
+title: Hello World (another preview)
 ---
 
 It works
